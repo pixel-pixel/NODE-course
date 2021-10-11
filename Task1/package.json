@@ -1,0 +1,26 @@
+{
+  "name": "task1-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/pixel-pixel/NODE-course"
+  },
+  "keywords": [
+    "js",
+    "express",
+    "nodejs"
+  ],
+  "author": "pixel-pixel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
